@@ -1,5 +1,12 @@
 # Ping Flood Attack Using Hping3
-An educational repository demonstrating a SYN flood DoS attack using Metasploit on a controlled network environment. This project provides step-by-step instructions to illustrate network vulnerabilities and strengthen cybersecurity awareness.
+**Aim:** To provide an educational demonstration of a Ping flood DoS attack using Hping3 in a controlled environment, offering hands-on experience in identifying network vulnerabilities and understanding the impact of Ping floods on system resources.
+
+**Objectives:**
+1. To explain the mechanics of Ping flood attacks and their effects on network resources.
+2. To guide the use of Hping3 and nmap for vulnerability scanning and attack execution.
+3. To demonstrate traffic analysis with Wireshark to identify Ping flood patterns.
+4. To reinforce ethical hacking principles by conducting attacks in a secure, authorized setting.
+5. To increase awareness of DoS attack defenses and mitigation strategies.
 
 # Requirements
 1. Victim Machine: A machine running Ubuntu Linux, configured as the target system for the attack.
